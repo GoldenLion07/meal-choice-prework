@@ -6,4 +6,4 @@ end
 meal_choice #call our method: the result will be "meat"
 
 meal_choice("vegan")
-#dynamically change our method by setting our name equal to "vegan"
+#dynamically change our method by setting our name(argument) equal to "vegan". We call our method, and inside our parenthesis we set use double quote vegan to change the value.
